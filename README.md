@@ -2,7 +2,7 @@
 This is a paper list of ICLR 2024.
 
 # Usage
-1. Open [https://dw-dengwei.github.io/ICLR24-paper-list/](https://dw-dengwei.github.io/ICLR24-paper-list/). Or,
+1. Open [https://dw-dengwei.github.io/OpenReview-paper-list/](https://dw-dengwei.github.io/OpenReview-paper-list/). Or,
 2. clone this repository and run `python3 -m http.server 9000` to start a local server.
 
 # Updates
