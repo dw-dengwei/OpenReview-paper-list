@@ -9,7 +9,7 @@ This is a list of papers opened in OpenReview.
 - Add ICML 2024 list
 - Add ICLR 2024 list
 - Add NeurIPS 2024 list
-- Add ICLR 2025 list (except decisions)
+- Add ICLR 2025 list
 
 # Acknowledgement
 - The data of the list is collected from the official openreview website via openreview API [https://docs.openreview.net/how-to-guides/data-retrieval-and-modification/how-to-get-all-decisions](https://docs.openreview.net/how-to-guides/data-retrieval-and-modification/how-to-get-all-decisions).
